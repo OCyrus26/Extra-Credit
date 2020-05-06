@@ -2,7 +2,6 @@ import java.util.*;
 
 class StringToBinary 
 { 
-
 	// utility function to convert a string into a binary string 
 	static String strToBinary(String s) 
 	{ 
@@ -49,7 +48,6 @@ class StringToBinary
 		} 
 		return String.valueOf(a); 
 	} 
-
 	// Driver code 
 	public static void main(String[] args) 
 	{ 
